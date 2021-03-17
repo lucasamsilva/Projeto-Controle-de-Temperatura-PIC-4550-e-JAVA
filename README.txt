@@ -1,3 +1,5 @@
+# Projeto de Controle de Temperatura utilizando PIC 4550 e Java para Comunicação Serial.
+
 PARA CORRETO FUNCIONAMENTO DA COMUNICAÇÃO SERIAL É NECESSÁRIO SEGUIR OS SEGUINTES PASSOS:
 
 1- ACESSE O SITE http://jlog.org/rxtx.html E FAÇA DOWNLOAD DOS ARQUIVOS rxtxSerial.dll, librxtxSerial.so e RXTXcomm.jar.
